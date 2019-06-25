@@ -5,22 +5,22 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Prathamesh Rale
 title: Software Engineer
-email: Your email (optional)
+email: realparth77@gmail.com / prathameshrale6@gmail.com
 phone: +1 647 938 3124
 website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: @IPrathameshRale
+#github_username:  jekyll
+#dribbble_username: jekyll
+facebook_username: @realparth
+#flickr_username: jekyll
+instagram_username: @iamprathameshrale
+linkedin_username: @prathamesh-rale-033bb980
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
