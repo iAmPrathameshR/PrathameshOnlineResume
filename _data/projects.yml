@@ -1,41 +1,8 @@
 # Project template
 - layout: top-middle
-
-  name: Marketing Integration for NXP Semiconductors 
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    #Short overview of the project (optional)
-  description: | To deal with upcoming market and relative changes in the products and expectations of the consumers using the products.
-Migration of NXP website to PDM (Product Data Management) data model.
-Face PDM Integration challenges and resolve them with efficient and reliable solutions working with Agile methodologies.
-  
-
-    
-    name: CMS Modernization for NXP Semiconductors
-#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
- # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    #Short overview of the project (optional)
-  description: | To deal with Infrastructure selection, installing and configuring new platforms, design and develop website components, layouts, presentation templates and data workflows working in Agile methodologies.
-Replace the existing version of TeamSite with the current version of Teamsite 8.x, Creation of Teamsite DCT’s, Taxonomy, Templates, Pages & Workflows, Replace the Public Site custom Java front-end with LiveSite Pages, Templates and LSCS, Localization / Custom Translation Utility, Analytics
-  
-    
-    
-    name: Project name
+  name: Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-    
-    
-    name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-    
+  description: | Hi this is the descriptino of the first project.
